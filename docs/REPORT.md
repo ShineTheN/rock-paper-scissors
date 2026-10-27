@@ -1,6 +1,8 @@
 # Báo cáo: Kéo–búa–bao bằng cử chỉ tay
 ## 0. Link video demo
 [Video_demo](https://drive.google.com/file/d/1Q9CguJaCwOu7wg9J7Txcl5DDp5UM5QI6/view?usp=sharing)
+
+[Github](https://github.com/ShineTheN/rock-paper-scissors)
 ## 1. Ý tưởng, input và output
  
 - Người chơi chơi trò kéo búa bao đấu với máy bằng tay trước webcam. Luật kéo búa báo theo luật tiêu chuẩn gồm 3 loại là kéo, búa và bao. 
